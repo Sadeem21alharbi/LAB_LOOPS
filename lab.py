@@ -1,4 +1,4 @@
-for num in range (45,210):
+for num in range (45,211):
     if num == 100:
         continue
     if num == 205:
